@@ -1,0 +1,5 @@
+node js is a javascript runtime environment
+
+It is used for real time application, api, like chat, game
+
+node is a single threaded but in background use a multiple thread to execute asyncronous code
